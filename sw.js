@@ -1,4 +1,4 @@
-const CACHE = "gangsta-rapper-v10";
+const CACHE = "gangsta-rapper-v11";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 // Install: always fetch fresh copies (skip the browser HTTP cache), then take over at once.
 self.addEventListener("install", (e) => {
